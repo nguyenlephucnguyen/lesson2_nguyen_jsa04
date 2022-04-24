@@ -1,0 +1,30 @@
+.a{
+    color:white; 
+    text-align: center;
+}
+.b{
+    background-color:coral;
+    text-align: center;
+    
+}
+
+.menu {
+    background-color:chocolate;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.menu li {
+    display: inline;
+    margin-left: 20px;
+}
+
+.menu li a {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.menu li a:hover {
+    color: rgb(0, 162, 255);
+}
